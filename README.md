@@ -13,3 +13,4 @@ This repo includes projects for JavaScript and homeworks in Patika.dev platform.
 
 ## CSS
 1.[Photo Store](https://github.com/alihan-aykanat/Patika_Dev_Projects_JavaScript/tree/kodluyoruz/CSS/Photo_Store)
+2.[Google BETA](https://github.com/alihan-aykanat/Patika_Dev_Projects_JavaScript/tree/kodluyoruz/CSS/GoogleBeta)
